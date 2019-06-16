@@ -1,0 +1,15 @@
+data/*.json
+data/*.txt
+
+gitCLOC.sh
+
+backend/node_modules
+backend/config.js
+
+frontend/node_modules
+frontend/public/dist/*
+
+node_modules
+
+.vscode
+frontend/src/config.js
